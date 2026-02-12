@@ -1,0 +1,12 @@
+{
+  "name": "el-github-mentions",
+  "version": "1.0.0",
+  "description": "GitHub PR/issue mention watcher for the el plugin. Persistent server with SQLite buffering — no missed comments.",
+  "author": {
+    "name": "Tim Garthwaite",
+    "url": "https://github.com/mividtim"
+  },
+  "repository": "https://github.com/mividtim/claude-code-el-github-mentions",
+  "license": "MIT",
+  "keywords": ["el", "github", "mentions", "pr", "comments"]
+}
