@@ -122,3 +122,7 @@ event-listen.sh github-mentions --repo fabrica-land/fabrica-v3-api --interval 30
 ## License
 
 MIT
+
+## License
+
+MIT © Fabrica, Inc. — see [LICENSE](LICENSE). Created and maintained by Tim Garthwaite.
